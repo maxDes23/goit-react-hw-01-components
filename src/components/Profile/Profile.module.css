@@ -28,6 +28,7 @@
 .stats {
   display: flex;
   justify-content: space-between;
+  gap: 5px;
   list-style: none;
   padding-left: 6px;
   padding-right: 6px;
